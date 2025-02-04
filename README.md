@@ -1,2 +1,3 @@
-# telco_churn
-Playing around with Kaggle data set for Telco Churn
+# mushroom_classification
+
+Playing around with Kaggle data set for mushroom classification as edible or poisonous
